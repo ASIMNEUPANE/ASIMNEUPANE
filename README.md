@@ -1,5 +1,5 @@
 -  Hi, I’m @ASIMNEUPANE
 -  I’m interested in WEB Development
--  MERN stack developer
+-  Associate Software Engineer
 -  asimneupane11@gmail.com
 
